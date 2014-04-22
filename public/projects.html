@@ -2,35 +2,22 @@
 layout: page
 title: Projects
 ---
-<link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.4.2/pure-min.css">
 <link rel="stylesheet" href="/public/css/projects.css">
 
 <p>My GitHub has started to get crowded, so here's a curated list of things I've made, chronologically.</p>
 
-<div class="pure-g-r">
 {% for project in site.data.projects %}
-	<div class="pure-u-1">
-		<div class="box css3-shadow">
-			<div class="pure-g-r">
-				<div class="pure-u-1">
-					{% if project.image %}
-						<a href="{{project.url}}">
-							<img class="image-rounded" src="{{project.image}}">
-						</a>
-					{% endif %}
-				</div>
-				<div class="pure-u-1">
-					<h3><a href="{{project.url}}">{{project.name}}</a></h3>
-				</div>
-				<div class="pure-u-1">
-					<p>{{project.description}}
-					{% if project.prize %}
-						<br>Winner: {{project.prize}}
-					{% endif %}
-					</p>
-				</div>
-			</div>
-		</div>
+	<div class="box css3-shadow">
+		{% if project.image %}
+			<a href="{{project.url}}">
+				<img class="image-rounded" src="{{project.image}}">
+			</a>
+		{% endif %}
+		<h3><a href="{{project.url}}">{{project.name}}</a></h3>
+		<p>{{project.description}}
+		{% if project.prize %}
+			<br>Winner: {{project.prize}}
+		{% endif %}
+		</p>
 	</div>
 {% endfor %}
-</div>
