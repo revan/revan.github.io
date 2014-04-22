@@ -6,19 +6,15 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+title:            Revan Sopher
+tagline:          'A blog, it would seem.'
+description:      'A blog, it would seem.'
+url:              http://rsopher.com
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Revan Sopher'
 
-paginate:         5
+paginate:         1
 
-# Custom vars
-version:          2.0.0
-
-github:
-  repo:           https://github.com/poole/hyde
+github:           'revan'
+resume:           'https://www.dropbox.com/s/yg1y2x58vgc7pk8/resume.pdf'
