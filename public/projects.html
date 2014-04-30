@@ -4,7 +4,7 @@ title: Projects
 ---
 <link rel="stylesheet" href="/public/css/projects.css">
 
-<p>My GitHub has started to get crowded, so here's a curated list of things I've made, chronologically.</p>
+<p>My GitHub has started to get crowded, so here's a curated list of things I've made, newest first.</p>
 
 {% for project in site.data.projects %}
 	<div class="box css3-shadow">
@@ -14,10 +14,9 @@ title: Projects
 			</a>
 		{% endif %}
 		<h3><a href="{{project.url}}">{{project.name}}</a></h3>
-		<p>{{project.description}}
+		{{project.description}}
 		{% if project.prize %}
-		<br><i class="fa fa-trophy fa-lg"></i> {{project.prize}}
+			<br><i class="fa fa-trophy fa-lg"></i> {{project.prize}}
 		{% endif %}
-		</p>
 	</div>
 {% endfor %}
