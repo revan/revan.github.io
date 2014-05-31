@@ -12,7 +12,7 @@
   We attempt to estimate campus bus occupancy using tcpdump to
   capture network traffic.
   "
-  image: https://raw.githubusercontent.com/revan/BusOccupancy/master/img/bus-unique-13x6-trimmed.png
+  image: https://raw.githubusercontent.com/revan/BusOccupancy/master/doc/img/bus-vectors-wide.png
 
 - name: "captcha4charity"
   url: https://github.com/revan/captcha4charity
@@ -39,7 +39,7 @@
   A Minecraft dungeon generator that uses a user's email conversations to create rooms and hallways.
   Rooms are procedurally generated parkour challenges.
   "
-  image: https://raw.github.com/dbordak/mailcraft/master/pic1.png
+  image: https://raw.github.com/dbordak/mailcraft/master/img/preview1.png
   prize: "Best use of Context.io API"
 
 - name: "facerecHUD"
