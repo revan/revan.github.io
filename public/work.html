@@ -1,12 +1,13 @@
 ---
 layout: page
-title: Projects
+title: Work
 ---
 <link rel="stylesheet" href="/public/css/projects.css">
 
-<p>My GitHub has started to get crowded, so here's a curated list of the cooler things I've made, newest first.</p>
+<p>Since most of my paid work is closed source, there's not all that much code to show here.
+As such, this is an annoted list of my employment history. </p>
 
-{% for project in site.data.projects %}
+{% for project in site.data.work %}
 	<div class="box css3-shadow">
 		{% if project.image %}
 			<a href="{{project.url}}">
@@ -14,9 +15,7 @@ title: Projects
 			</a>
 		{% endif %}
 		<h3><a href="{{project.url}}">{{project.name}}</a></h3>
+		<h4>{{project.date}}</h4>
 		{{project.description}}
-		{% if project.prize %}
-			<br><i class="fa fa-trophy fa-lg"></i> {{project.prize}}
-		{% endif %}
 	</div>
 {% endfor %}
