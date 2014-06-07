@@ -14,6 +14,6 @@ url:              http://rsopher.com
 author:
   name:           'Revan Sopher'
 
-paginate:         1
+paginate:         5
 
 resume:           'https://www.dropbox.com/s/yg1y2x58vgc7pk8/resume.pdf'
