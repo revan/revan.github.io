@@ -9,3 +9,34 @@
   margin-left: auto;
   margin-right:auto;
 }
+
+.landing {
+  text-align: center;
+  color: rgba(255,255,255.5);
+  background-color: #202020;
+  height: 100%;
+  width: 100%;
+  padding: 10%;
+}
+
+.landing .image-rounded {
+	width: 250px;
+}
+.landing a {
+  color: #505050;
+}
+
+.landing-nav {
+  padding-left: 0;
+  list-style: none;
+}
+.landing-nav-item {
+  display: inline;
+}
+a.landing-nav-item:hover,
+a.landing-nav-item:focus {
+  text-decoration: underline;
+}
+.landing-nav-item.active {
+  font-weight: bold;
+}

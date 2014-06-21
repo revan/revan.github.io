@@ -7,13 +7,14 @@ permalink:        pretty
 
 # Setup
 title:            Revan Sopher
-tagline:          'A blog, it would seem.'
+tagline:          "That would be me."
 description:      'A blog, it would seem.'
 url:              http://rsopher.com
 
 author:
   name:           'Revan Sopher'
 
+paginate_path:    "blog/page:num"
 paginate:         5
 
 resume:           'https://www.dropbox.com/s/yg1y2x58vgc7pk8/resume.pdf'

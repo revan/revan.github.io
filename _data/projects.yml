@@ -3,6 +3,7 @@
   description: "
   Scrapes basic nutrition information for Rutgers menus into JSON.
   The original source of the data is a closed-source system that outputs in ugly ugly HTML tables.
+  I've also <a href='https://github.com/rutgersmobile/android-client/pull/1'>written up a pull request</a> to merge this into the official school app.
   "
 
 - name: "Programmatically Determining Bus Occupancy"
@@ -12,7 +13,7 @@
   We attempt to estimate campus bus occupancy using tcpdump to
   capture network traffic.
   "
-  image: https://raw.githubusercontent.com/revan/BusOccupancy/master/doc/img/bus-vectors-wide.png
+  image: busoccupancy.png
 
 - name: "captcha4charity"
   url: https://github.com/revan/captcha4charity
@@ -22,7 +23,7 @@
   A service for crowd-sourcing CAPTCHA challenges and raising money for charity.
   "
   prize: "Restored Faith in Humanity Award, HackRU S2014"
-  image: https://github.com/revan/captcha4charity/raw/master/demo.png
+  image: captcha4charity.png
 
 - name: "gabenizer"
   url: https://github.com/revan/gabenizer
@@ -31,7 +32,7 @@
   and pastes Gabe Newell's face over theirs.
   <a href='http://www.reddit.com/r/gentlemangabers/top/'>See it in action here!</a>
   "
-  image: https://raw.github.com/revansopher/gabenizer/master/demo.png
+  image: mailcraft.png
 
 - name: "mailcraft"
   url: https://github.com/dbordak/mailcraft
@@ -39,7 +40,7 @@
   A Minecraft dungeon generator that uses a user's email conversations to create rooms and hallways.
   Rooms are procedurally generated parkour challenges.
   "
-  image: https://raw.github.com/dbordak/mailcraft/master/img/preview1.png
+  image: mailcraft.png
   prize: "Best use of Context.io API"
 
 - name: "facerecHUD"
@@ -48,5 +49,5 @@
   Code from my 2013 summer internship. I built a facial recognition
   assistant using an Android HUD meant for snowboarders.
   "
-  image: http://ecx.images-amazon.com/images/I/61p7AMwfHcL._SL1500_.jpg
+  image: modlivehud.jpg
 
