@@ -1,3 +1,8 @@
+---
+layout: post
+title: "Car Stereo Receiver Replacement"
+---
+
 A few months back I replaced the stereo receivers in a 10 and a 20 year old family car.
 Fed up with the lack of auxillary input (or even CD player, on the older one), I started on what would end up being a rather straightforward project.
 
