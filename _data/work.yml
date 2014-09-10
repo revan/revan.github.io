@@ -3,9 +3,10 @@
   url: http://www.noom.com/
   description: "
   Noom is a cool little company that makes a weight loss coach app for iOS and Android.
-  <br>More on this when the internship ends.
+  <br>I worked on a team to develop a social network for group therapy, contributing code to both platforms, as well as
+  working on internal tools for our in-house psychologist to monitor users and automated tests to monitor the database.
   "
-  image: noom.jpg
+  image: noom.png
 
 - name: "New Jersey Governor's School of Engineering & Technology"
   date: "Summer 2013"
