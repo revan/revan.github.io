@@ -1,3 +1,19 @@
+- name: "Pebble Rutgers"
+  url: https://github.com/revan/Pebble-Rutgers
+  description: "
+    Pebble smarwatch app that displays university dining hall menus (using my scraper below)
+    and bus times.
+  "
+  image: pebble-rutgers.png
+
+- name: "Moustachio"
+  url: https://github.com/revan/Moustachio 
+  description: "
+    Chrome extension that adds a moustache to Wikipedia biographies. Similar to the gabenizer.
+  "
+  prize: "Funniest Hack, HachRU F2014"
+  image: moustachio.png
+
 - name: "Rutgers Nutrition API"
   url: https://github.com/revan/RU-Food-Scraper
   description: "
