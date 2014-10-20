@@ -31,14 +31,3 @@
   available to therapists via a web interface.
   "
   image: niancrae.png
-
-- name: "WINLAB"
-  date: "Summer 2013"
-  url: http://www.winlab.rutgers.edu/
-  description: "
-  WINLAB is a research facility affiliated with Rutgers University.
-  My project for the summer was to implement a facial recognition system using an Android HUD meant for snowboarders.
-  <a href='https://github.com/revan/facerecHUD'>This project is open source.</a>
-  "
-  image: winlab.jpg
-

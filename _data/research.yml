@@ -1,0 +1,21 @@
+
+- name: "Programmatically Determining Bus Occupancy"
+  url: https://github.com/revan/BusOccupancy
+  description: "
+  In this independent study we attempted to estimate campus bus occupancy using tcpdump to
+  capture network traffic.
+  <br>
+  Repository contains a bunch of plotting scripts and our report.
+  "
+  image: busoccupancy.png
+
+- name: "facerecHUD"
+  url: https://github.com/revan/facerecHUD
+  description: "
+  WINLAB is a research facility affiliated with Rutgers University.
+  My project for the summer was to implement a facial recognition system using an Android HUD meant for snowboarders.
+  <br>
+  They even threw money at me, though I'm not entirely sure why...
+  "
+  image: modlivehud.jpg
+

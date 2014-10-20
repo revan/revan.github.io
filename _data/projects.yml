@@ -11,7 +11,7 @@
   description: "
     Chrome extension that adds a moustache to Wikipedia biographies. Similar to the gabenizer.
   "
-  prize: "Funniest Hack, HachRU F2014"
+  prize: "<a href='https://twitter.com/theHackRU/status/521385920470466560'>Funniest Hack, HackRU F2014</a>"
   image: moustachio.png
 
 - name: "Rutgers Nutrition API"
@@ -19,17 +19,7 @@
   description: "
   Scrapes basic nutrition information for Rutgers menus into JSON.
   The original source of the data is a closed-source system that outputs in ugly ugly HTML tables.
-  I've also <a href='https://github.com/rutgersmobile/android-client/pull/1'>written up a pull request</a> to merge this into the official school app.
   "
-
-- name: "Programmatically Determining Bus Occupancy"
-  url: https://github.com/revan/BusOccupancy
-  description: "
-  Scripts and report for an independent study.
-  We attempt to estimate campus bus occupancy using tcpdump to
-  capture network traffic.
-  "
-  image: busoccupancy.png
 
 - name: "captcha4charity"
   url: https://github.com/revan/captcha4charity
@@ -48,6 +38,7 @@
   and pastes Gabe Newell's face over theirs.
   <a href='http://www.reddit.com/r/gentlemangabers/top/'>See it in action here!</a>
   "
+  prize: "/r/gaben's <a href='http://www.reddit.com/r/Gaben/wiki/index'>The Chivalric Order of the Knights of Newell</a>"
   image: gabenizer.png
 
 - name: "mailcraft"
@@ -57,13 +48,4 @@
   Rooms are procedurally generated parkour challenges.
   "
   image: mailcraft.png
-  prize: "Best use of Context.io API"
-
-- name: "facerecHUD"
-  url: https://github.com/revan/facerecHUD
-  description: "
-  Code from my 2013 summer internship. I built a facial recognition
-  assistant using an Android HUD meant for snowboarders.
-  "
-  image: modlivehud.jpg
-
+  prize: "<a href='https://twitter.com/ContextIO/status/389566537830391808'>Best use of Context.io API</a>"
