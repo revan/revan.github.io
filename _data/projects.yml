@@ -9,10 +9,16 @@
 - name: "Moustachio"
   url: https://github.com/revan/Moustachio 
   description: "
-    Chrome extension that adds a moustache to Wikipedia biographies. Similar to the gabenizer.
+    Chrome extension that adds a moustache to Wikipedia biographies. Similar to the gabenizer (below).
   "
   prize: "<a href='https://twitter.com/theHackRU/status/521385920470466560'>Funniest Hack, HackRU F2014</a>"
   image: moustachio.png
+
+- name: "DungeonSprawl"
+  url: https://github.com/revan/DungeonSprawl
+  description: "
+  A simple dungeon crawler game, played on any number of Android devices linked via websockets to a host computer. Each Android device takes a turn representing a room in the dungeon, sprawling outward."
+  image: dungeonsprawl.png
 
 - name: "Rutgers Nutrition API"
   url: https://github.com/revan/RU-Food-Scraper
@@ -30,6 +36,15 @@
   "
   prize: "Restored Faith in Humanity Award, HackRU S2014"
   image: captcha4charity.png
+
+- name: "StandupMagic"
+  url: https://github.com/revan/StandupMagic
+  description: "
+  A chrome extension for generating a bulleted list for daily \"standup\" meetings.
+
+  Fetches tasks from Asana and outstanding code reviews from a Rietveld server.
+  "
+  image: standupmagic.png
 
 - name: "gabenizer"
   url: https://github.com/revan/gabenizer
