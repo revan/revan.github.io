@@ -1,7 +1,7 @@
 - name: "Pebble Rutgers"
   url: https://github.com/revan/Pebble-Rutgers
   description: "
-    Pebble smarwatch app that displays university dining hall menus (using my scraper below)
+    Pebble smartwatch app that displays university dining hall menus (using my scraper below)
     and bus times.
   "
   image: pebble-rutgers.png
