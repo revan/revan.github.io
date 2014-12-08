@@ -11,7 +11,7 @@
 
 .landing {
   text-align: center;
-  color: rgba(255,255,255.5);
+  color: #777777;
   background-color: #202020;
   height: 100%;
   width: 100%;
@@ -25,17 +25,7 @@
   color: #fafafa;
 }
 
-.landing-nav {
-  padding-left: 0;
-  list-style: none;
-}
-.landing-nav-item {
-  display: inline;
-}
-a.landing-nav-item:hover,
-a.landing-nav-item:focus {
+a.:hover,
+a.:focus {
   text-decoration: underline;
-}
-.landing-nav-item.active {
-  font-weight: bold;
 }
