@@ -317,6 +317,12 @@ tbody tr:nth-child(odd) th {
   margin-top: 0;
 }
 
+.post-more {
+  color: #9a9a9a;
+  float: right;
+  margin-top: -1rem;
+}
+
 /* Meta data line below post title */
 .post-date {
   display: block;

@@ -19,7 +19,11 @@ title: Blog
 	  {% if readtime == '0' %} &lt; 1{% else %}{{ readtime }}{% endif %} min. read
 	</span>
 
-    {{ post.content }}
+    {{ post.excerpt }}
+
+	<a class="post-more" href="{{ post.url }}">
+		More <i class="fa fa-angle-double-right"></i>
+	</a>
   </div>
   {% endfor %}
 </div>
