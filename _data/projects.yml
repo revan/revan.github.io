@@ -1,3 +1,10 @@
+- name: "FWTM"
+  url: https://github.com/revan/FWTM
+  description: "
+    A weird little game where two teams of players, equipped with an Android phone in hand and a unique QR tag taped to their backs, compete for control of a selection of New York City blocks while hunting each other. Pulls data from the NYC Open Data 2010 Census.
+  "
+  image: fwtm.png
+
 - name: "Pebble Rutgers"
   url: https://github.com/revan/Pebble-Rutgers
   description: "
