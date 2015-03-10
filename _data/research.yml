@@ -1,7 +1,7 @@
-- name: "VisualMIMO"
+- name: "Detecting Planes in Real-Time for Camera Display Communications"
   url: https://github.com/mathski/visualmimo
   description: "
-  For this semester I got involved with a <a href='http://www.winlab.rutgers.edu/~aashok/visualmimo/Overview.html'>cool project</a>.
+  For this semester I got involved with a <a href='http://www.winlab.rutgers.edu/~aashok/visualmimo/Overview.html'>cool research group</a>.
   We're building a system for extracting hidden information in an image, using an Android device.
   "
 
@@ -21,7 +21,14 @@
   WINLAB is a research facility affiliated with Rutgers University.
   My project for the summer was to implement a facial recognition system using an Android HUD meant for snowboarders.
   <br>
-  They even threw money at me, though I'm not entirely sure why...
+  It was a cool toy to play with, but I'm not going to pretend that we did anything groundbreaking here.
   "
   image: modlivehud.jpg
 
+- name: "An Experiment on Partnership Protocols for Bilateral Trade with Incomplete Information"
+  url: https://ideas.repec.org/p/rut/rutres/201304.html
+  description: "
+    Tangentially relevant, I supposed, but this was my first involvement in any sort of research. Back in high school my dad, Economics professor, hired me to program some experiments. As it turns out, the school has some pretty strict anti-nepotism rules preventing exactly that sort of thing, so I got bumped to coauthor.
+    <br>
+    I made <a href='https://github.com/revan/zTreeDev'>this toolkit</a> for working with the framework.
+  "
