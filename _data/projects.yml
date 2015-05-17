@@ -2,14 +2,17 @@
   url: https://github.com/revan/watchface
   description: "
     A mobile website to turn a photo into an analog watchface for Pebble.
+    The server inserts the image into a C Pebble SDK project and compiles to get the binary.
   "
   prize: "Best Use of Linode, HackRU S2015"
   image: watchface.png
+  demo: http://rsopher.com/watchface
 
 - name: "IRCget"
   url: https://github.com/revan/IRCget
   description: "
     A sorta crude interactive script that prompts you for an ebook title then tries to acquire it from the file-serving IRC bots on certain servers.
+    Real shady stuff.
   "
 
 - name: "FWTM"
@@ -31,6 +34,7 @@
   url: https://github.com/revan/Moustachio 
   description: "
     Chrome extension that adds a moustache to Wikipedia biographies. Similar to the gabenizer (below).
+    Not yet live, because I have yet to figure out how to host this cheaply.
   "
   prize: "<a href='https://twitter.com/theHackRU/status/521385920470466560'>Funniest Hack, HackRU F2014</a>"
   image: moustachio.png
@@ -38,7 +42,9 @@
 - name: "DungeonSprawl"
   url: https://github.com/revan/DungeonSprawl
   description: "
-  A simple dungeon crawler game, played on any number of Android devices linked via websockets to a host computer. Each Android device takes a turn representing a room in the dungeon, sprawling outward."
+  A simple dungeon crawler game, played on any number of Android devices linked via websockets to a host computer. Each Android device takes a turn representing a room in the dungeon, sprawling outward.
+  Graphics are ASCII based because that's all I had time for.
+  "
   image: dungeonsprawl.png
 
 - name: "Rutgers Nutrition API"
@@ -47,6 +53,7 @@
   Scrapes basic nutrition information for Rutgers menus into JSON.
   The original source of the data is a closed-source system that outputs in ugly ugly HTML tables.
   "
+  demo: http://vps.rsopher.com/nutrition.json
 
 - name: "captcha4charity"
   url: https://github.com/revan/captcha4charity
@@ -54,6 +61,7 @@
   <i>Making the internet a worse place, making the world a better place.</i>
   <br>
   A service for crowd-sourcing CAPTCHA challenges and raising money for charity.
+  It's missing some pretty basic functionality, but the idea was novel enough.
   "
   prize: "Restored Faith in Humanity Award, HackRU S2014"
   image: captcha4charity.png
@@ -72,10 +80,11 @@
   description: "
   A reddit bot that runs pictures of models through facial detection,
   and pastes Gabe Newell's face over theirs.
-  <a href='http://www.reddit.com/r/gentlemangabers/top/'>See it in action here!</a>
+  The bot has over 4000 subscribers, which I honestly find a bit odd.
   "
   prize: "/r/gaben's <a href='http://www.reddit.com/r/Gaben/wiki/index'>The Chivalric Order of the Knights of Newell</a>"
   image: gabenizer.png
+  demo: http://www.reddit.com/r/gentlemangabers
 
 - name: "mailcraft"
   url: https://github.com/dbordak/mailcraft

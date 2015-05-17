@@ -4,16 +4,23 @@ title: Projects
 ---
 <link rel="stylesheet" href="/public/css/projects.css">
 
-<p>My GitHub has started to get crowded, so here's some of the cooler things I've made, newest first. These were mostly made in under 24 hours.</p>
+<p>My GitHub has started to get crowded, so here's some of the cooler things I've made, newest first. These were mostly made in under 24 hours, so they're mostly rough around the edges.</p>
 
 {% for project in site.data.projects %}
 	<div class="box css3-shadow">
+
 		{% if project.image %}
 			<a href="{{project.url}}">
 				<img class="image-rounded" src="{{project.image}}">
 			</a>
 		{% endif %}
+
 		<h3><a href="{{project.url}}">{{project.name}}</a></h3>
+
+		{% if project.demo %}
+			<h3><a href="{{project.demo}}">Demo!</a></h3>
+		{% endif %}
+
 		{{project.description}}
 		{% if project.prize %}
 			<br><i class="fa fa-trophy fa-lg"></i> {{project.prize}}
