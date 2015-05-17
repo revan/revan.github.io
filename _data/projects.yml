@@ -1,3 +1,17 @@
+- name: "Watchface: Selfie Time"
+  url: https://github.com/revan/watchface
+  description: "
+    A mobile website to turn a photo into an analog watchface for Pebble.
+  "
+  prize: "Best Use of Linode, HackRU S2015"
+  image: watchface.png
+
+- name: "IRCget"
+  url: https://github.com/revan/IRCget
+  description: "
+    A sorta crude interactive script that prompts you for an ebook title then tries to acquire it from the file-serving IRC bots on certain servers.
+  "
+
 - name: "FWTM"
   url: https://github.com/revan/FWTM
   description: "
