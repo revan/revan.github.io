@@ -13,7 +13,7 @@
   "
   prize: "Best Use of Linode, HackRU S2015"
   image: watchface.png
-  demo: http://rsopher.com/watchface
+  demo: http://vps.rsopher.com/watchface
 
 - name: "IRCget"
   url: https://github.com/revan/IRCget
