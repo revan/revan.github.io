@@ -1,3 +1,10 @@
+- name: "asOne"
+  url: https://github.com/joshjiav5/asOne
+  description: "
+    An iOS app to build a support network of close friends for the night to take steps to ensure everyone’s safety, fighting bystander inaction. Made for a hackathon for the theme of \"Safety for women on campus\". First time working on a fresh iOS codebase, which was... not as bad as I'd expected.
+    "
+  image: asOne.jpg
+
 - name: "Watchface: Selfie Time"
   url: https://github.com/revan/watchface
   description: "
