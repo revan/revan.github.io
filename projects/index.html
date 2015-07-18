@@ -15,13 +15,20 @@ title: Projects
 			</a>
 		{% endif %}
 
-		<h3><a href="{{project.url}}">{{project.name}}</a></h3>
+		<div style="padding-bottom: 3rem">
+		<a class="projectTitle" style="float:left" href="{{project.url}}">{{project.name}}</a>
 
 		{% if project.demo %}
-			<h3><a href="{{project.demo}}">Demo!</a></h3>
+		<a class="projectTitle" style="float:right" href="{{project.demo}}">Demo!</a>
 		{% endif %}
 
+		</div>
+
+		<br>
+
+		<div>
 		{{project.description}}
+		</div>
 		{% if project.prize %}
 			<br><i class="fa fa-trophy fa-lg"></i> {{project.prize}}
 		{% endif %}
