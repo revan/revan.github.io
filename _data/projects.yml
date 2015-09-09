@@ -1,3 +1,21 @@
+- name: "LinkedIn Unconcious Bias Experiment"
+  url: https://github.com/revan/LinkedIn-Unconscious-Bias
+  description: "
+    An A/B testing framework for running experiments to assess the impact of unconscious bias in recruiting.
+    Subjects are asked to rank a series of LinkedIn profile pairs, with and without name/picture stripped.
+    Profiles that perform better with information stripped are likely suffering from negative bias.
+    "
+  image: linkedin.png
+
+- name: "Rutgers Crime Alerts"
+  url: https://github.com/revan/RU-Crime-Alerts
+  description: "
+    Another scraping API, this one extracts information from the statements released by the Rutgers Police Department.
+  <a href='http://vps.rsopher.com/crime.html'>Live map demo.</a>
+    "
+  image: crime.png
+  demo: http://vps.rsopher.com/crime.json
+
 - name: "asOne"
   url: https://github.com/joshjiav5/asOne
   description: "
