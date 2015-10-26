@@ -1,9 +1,11 @@
 - name: "Detecting Planes in Real-Time for Camera Display Communications"
   url: https://github.com/mathski/visualmimo
   description: "
-  For this semester I got involved with a <a href='http://www.winlab.rutgers.edu/~aashok/visualmimo/Overview.html'>cool research group</a>.
+  This started as an independent study in conjunction with a <a href='http://www.winlab.rutgers.edu/~aashok/visualmimo/Overview.html'>research group</a> but has kept going.
   We're building a system for extracting hidden information in an image, using an Android device.
+  I wrote a report on the workings <a href='https://github.com/revan/special-problems-report/blob/master/report.pdf'>here</a>.
   "
+  image: vmimo.png
 
 - name: "Programmatically Determining Bus Occupancy"
   url: https://github.com/revan/BusOccupancy
