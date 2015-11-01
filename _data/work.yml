@@ -1,3 +1,14 @@
+- name: "Coursera"
+  date: "Summer 2015"
+  url: https://www.coursera.org/
+  description: "
+    A massive online open course ed-tech company.
+      <br>My first job to not involve any mobile development, I was on the infrastructure team.
+      Had to pick up Scala, my first functional language, which was a blast.
+      <br> I contributed to an internal load balancer and AWS deployment tools, and designed and built a real-time abuse protection service.
+      <br>Did this as part of the <a href='http://kpcbfellows.com'>KPCB Fellows Program</a>.
+    " 
+  image: coursera.png
 - name: "Noom, Inc."
   date: "Summer 2014"
   url: http://www.noom.com/
