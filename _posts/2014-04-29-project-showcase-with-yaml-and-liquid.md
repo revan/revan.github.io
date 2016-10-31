@@ -6,7 +6,7 @@ title: "Project Showcase with YAML and Liquid"
 When I remade my website with [Jekyll](http://jekyllrb.com/) last week, I made a project showcase page (check it out in the sidebar!).
 In under twenty lines of code, I built a system for programmatically display a list of projects with descriptions, and look nice doing it.
 
-####YAML
+## YAML
 Jekyll uses [YAML](http://www.yaml.org/), a human readable data format like JSON, for configuration.
 My system reads the data to display from a file `projects.yml`, stored in `_data/`.
 
@@ -28,7 +28,7 @@ The syntax is pretty self explanatory:
   prize: "Best Example of YAML"
 ```
 
-####Liquid
+## Liquid
 Jekyll also uses [Liquid Templating](http://liquidmarkup.org/) for compile-time HTML generation, allowing for some pretty powerful stuff.
 I use [GitHub Pages](https://pages.github.com/) for hosting, which means on every push, the project page (and everything, really) is regenerated.
 

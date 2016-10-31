@@ -12,7 +12,7 @@ threads is slightly complicated by a lack of stable connection), I decided I'd h
 Out of the box, Windows is pretty terrible for development, especially coming from a tiling window manager
 on Linux. With some third-party software, though, Windows can be pretty ...alright.
 
-###Virtual Desktops
+## Virtual Desktops
 
 The single biggest feature I miss in Windows, and one that any sane environment has, is virtual desktops.
 The idea is straightforward: instead of having a single desktop holding all of your running applications,
@@ -27,7 +27,7 @@ With virtual desktops, I find I have far fewer windows per desktop, so I don't n
 introduced in 7. `Taskbar > Properties > Taskbar buttons: Combine when taskbar full`, and `Use small taskbar
 buttons` for the extra bit of vertical screen space.
 
-###Window Tiling
+## Window Tiling
 
 Another killer feature I need in a window manager is the ability to place windows without touching the mouse.
 Windows 7+ includes the shortcuts `Super-[arrow]` to place windows half left, half right, or maximized, but
@@ -46,7 +46,7 @@ This makes for quick on-demand tiling, as shown:
 Entering a shortcut once will place the window in the respective location, a second will shrink to one third
 the horizontal screen space, and a third will grow to two thirds the space.
 
-###Program Launching
+## Program Launching
 
 Juggling windows via keyboard would be a lot less effective if I still had to fall back to mouse to launch
 them, of course. My main two programs, Chrome and Cygwin, I have pinned to the taskbar, making them accessible with `Super-[1/2]`.

@@ -8,14 +8,14 @@ the URL, which is long and hard to remember but unique. [Flask](http://flask.poc
 microframework for making lightweight dynamic websites in Python. In this post, I'll be demonstrating how
 to make a simple webapp with Flask that redirects requests to your Dropbox public folder, and hosting it.
 
-###Finding your user constant
+## Finding your user constant
 
 Every file in your Public folder is available at the URL
 `https://dl.dropbox.usercontent.com/u/[user constant]/[filename]`. To find your user constant, open
 your Dropbox Public folder, right click on a file, select `Dropbox > Copy Public Link`, and paste into a
 text editor.
 
-###Writing the app
+## Writing the app
 
 {% gist 7462815 app.py %}
 
@@ -25,7 +25,7 @@ Lines 6-8 return usage message if the app is accessed without a filename, lines 
 file with the specified name in your Public folder if `/[filename]` is accessed, and the other lines
 import and run Flask. That's it!
 
-###Hosting the app
+## Hosting the app
 
 While you could run this app locally, it's not exceptionally useful limited to your computer. To host
 it for free, we'll use [Heroku](https://www.heroku.com/). Heroku uses [git](http://git-scm.com/) to
