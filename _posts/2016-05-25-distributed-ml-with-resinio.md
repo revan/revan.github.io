@@ -3,7 +3,7 @@ layout: post
 title: "Building a Distributed Machine Learning Testbench with resin.io on Raspberry Pis"
 ---
 
-Guest post for [resin.io](https://resin.io) about my senior design project, originally published [here!](https://resin.io/blog/building-a-distributed-machine-learning-testbench-with-resin-io-on-raspberry-pis/)
+>Guest post for [resin.io](https://resin.io) about my senior design project, originally published [here!](https://resin.io/blog/building-a-distributed-machine-learning-testbench-with-resin-io-on-raspberry-pis/)
 
 ## Intro
 For our senior design project, we decided to build a testbench for developing and iterating distributed machine learning algorithms of the sort that our adviser studies.
