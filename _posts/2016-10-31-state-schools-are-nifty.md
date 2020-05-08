@@ -3,7 +3,7 @@ layout: post
 title: "State Schools are Nifty!"
 ---
 
->Guest article for the alumni column in [my department's yearly newsletter](http://www.ece.rutgers.edu/files/pdf/Newsletters/ECE_Newsletter_2016.pdf), just a touch preachy.
+>Guest article for the alumni column in [my department's yearly newsletter](https://www.ece.rutgers.edu/sites/default/files/newsletters/ECE_Newsletter_2016.pdf), just a touch preachy.
 
 Choosing Rutgers was probably the best decision I made senior year of high school. The peculiar thing about the tech industry is that employers care about what a candidate knows, not which school they attended -- certainly more so than in business or law, but also more than in more “traditional” engineering fields. I was confident that I could achieve my goals no matter which university I chose, so I couldn’t justify paying the high prices of the “elite” schools. As an in-state student, Rutgers was a fantastic value -- the scholarships only made the choice easier. 
 
