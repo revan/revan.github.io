@@ -14,6 +14,7 @@ _site
 *.zip
 *.vi
 *~
+Gemfile.lock
 
 # OS or Editor folders
 .DS_Store
