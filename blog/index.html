@@ -15,7 +15,7 @@ title: Blog
 	<span class="post-date">
 	  {{ post.date | date_to_string }}
 	  &bull;
-	  {% capture readtime %}{{ post.content | number_of_words | plus:91 | divided_by:180 }}{% endcapture %}
+	  {% capture readtime %}{{ post.content | number_of_words | plus:91 | divided_by:220 }}{% endcapture %}
 	  {% if readtime == '0' %} &lt; 1{% else %}{{ readtime }}{% endif %} min. read
 	</span>
 
