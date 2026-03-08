@@ -17,4 +17,4 @@ author:
 paginate_path:    "blog/page:num"
 paginate:         5
 
-resume:           "http://resume.revan.io"
+resume:           "https://revan.io/resume/revan.pdf"
